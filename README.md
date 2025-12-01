@@ -4,3 +4,6 @@ Basic Impersonation Bot
 When /textas It creates A Webhook with chosen users PFP and display name and post it in the webhook channel.
 Webhook gets auto deleted After.
 // Made By Occult!
+# Requirements!
+Npm Install
+npm install discord.js
